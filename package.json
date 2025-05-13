@@ -1,0 +1,27 @@
+{
+  "name": "full-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Errocler: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawn05/udemy-fullstack-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "qsang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawn05/udemy-fullstack-backend/issues"
+  },
+  "homepage": "https://github.com/sawn05/udemy-fullstack-backend#readme",
+  "description": "Contact to me: 0986.961.164",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
